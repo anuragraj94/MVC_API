@@ -1,0 +1,18 @@
+
+
+
+add a project with only empty api selected
+
+create model class
+create databaseContext class
+define connection string in Web.config 
+
+install entity framework via nugat package manager
+	
+Commands
+ 
+1.enable-migrations
+
+2.add-migration initial
+
+3.update-database -verbose
