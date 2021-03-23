@@ -16,3 +16,24 @@ Commands
 2.add-migration initial
 
 3.update-database -verbose
+
+
+
+Reading material 
+
+https://www.codeproject.com/Articles/876870/Implement-OAuth-JSON-Web-Tokens-Authentication-in
+
+
+Youtube source
+
+https://www.youtube.com/watch?v=iaeHaydhatE for this api
+
+
+https://www.youtube.com/watch?v=bleKX1eIjBU for login authentication
+
+https://www.youtube.com/watch?v=3l4KHG2mppc for login token guidance
+
+
+https://www.youtube.com/watch?v=AUbGk5Ab40A for authentication(JWT)
+
+
